@@ -19,6 +19,21 @@ Study Buddy helps students study actively by taking learning material as input a
 - answer evaluation with feedback
 - contextual AI chat support
 
+---
+
+## Demo Look
+<img width="1353" height="643" alt="image" src="https://github.com/user-attachments/assets/d8839289-baea-48a7-8d90-efb2d69de1f6" />
+
+<img width="1354" height="647" alt="image" src="https://github.com/user-attachments/assets/1e9ab407-52e0-463f-945f-db6d1c076774" />
+
+<img width="1353" height="600" alt="image" src="https://github.com/user-attachments/assets/f387e525-9cde-42ef-8ebc-c34e14c1793e" />
+
+<img width="1350" height="651" alt="image" src="https://github.com/user-attachments/assets/636c3573-a2e8-4d3f-b03a-5202410af4f9" />
+
+<img width="1355" height="596" alt="image" src="https://github.com/user-attachments/assets/970aff4f-0d74-462d-b6d2-35c307497801" />
+
+---
+
 ## Key Features
 
 - `Smart Summary`: Converts long text into a short readable summary with key takeaways.
@@ -191,14 +206,6 @@ http://localhost:8000
 - clear UI
 - practical student-focused features
 - structured AI responses
-
-## Limitations
-
-- no database or user authentication
-- frontend is a single static file
-- no saved chat or study history
-- depends on external AI API availability
-- no automated tests yet
 
 ## Future Improvements
 
