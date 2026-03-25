@@ -1,14 +1,14 @@
-# Study Buddy
+# 😎 Study Buddy
 
 Study Buddy is an AI-powered learning assistant that turns raw study material into summaries, practice questions, MCQs, answer feedback, and an interactive tutor chat.
 
 It is built as a simple full-stack project with a `FastAPI` backend and a single-page `HTML/CSS/JavaScript` frontend, using NVIDIA-hosted `google/gemma-2-27b-it` through an OpenAI-compatible API.
 
-## Problem Statement
+## 🤔 Problem Statement
 
 Students often struggle to turn long notes or textbook content into something they can revise quickly and practice effectively. Reading alone is slow, passive, and does not always reveal whether the learner actually understands the topic.
 
-## Solution
+## 😉 Solution
 
 Study Buddy helps students study actively by taking learning material as input and instantly generating:
 
